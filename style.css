@@ -1,0 +1,23 @@
+body{
+    background-image: url(istockphoto-1076840920-612x612.jpg);
+    background: cover;
+}
+.header{
+    margin-top:0px;
+    background-color: orange;
+    box-shadow: 2px, 2px, 2px, grey;
+}
+.title{
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+.note{
+    color: black;
+
+}
+.song_name{
+    text-align: center;
+    
+}
